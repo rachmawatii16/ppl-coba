@@ -1,0 +1,4 @@
+api Hati-hati:
+Rebase mengubah sejarah commit, jadi jangan rebase branch yang sudah dishare/dipush ke orang lain, kecuali kamu dan timmu sepakat.
+
+Kalau terjadi konflik saat rebase, kamu harus selesaikan secara manual lalu lanjutkan dengan:

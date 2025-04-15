@@ -1,0 +1,4 @@
+Perbandingan Sederhana:
+Merge: gabungkan dua branch, hasilnya akan ada commit gabungan (merge commit).
+
+Rebase: pindahin semua commit dari satu branch ke atas branch lain, tanpa merge commit, hasilnya lebih bersih dan linear.
