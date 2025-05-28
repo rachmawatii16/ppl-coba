@@ -4,3 +4,5 @@ Rebase mengubah sejarah commit, jadi jangan rebase branch yang sudah dishare/dip
 Kalau terjadi konflik saat rebase, kamu harus selesaikan secara manual lalu lanjutkan dengan:
 
 aku suka kamu aaa bismillah
+
+bismillah coba pr 1
